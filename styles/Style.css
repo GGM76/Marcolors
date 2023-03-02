@@ -1,0 +1,18 @@
+nav {
+    float: left;
+  }
+
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  nav ul li a {
+    display: block; 
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+  }
