@@ -5,6 +5,10 @@ img {
     width: 80%;
     padding: 3%;
 }
+
+footer{
+    background-color: aqua;
+}
 .head1{
     background-color: blueviolet;
 }
@@ -26,6 +30,4 @@ img {
     justify-items: center;
 }
 
-footer{
-    background-color: aqua;
-}
+@media
