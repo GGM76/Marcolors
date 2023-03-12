@@ -1,3 +1,7 @@
+body{
+    background-color: #ffc8dd;
+}
+
 img {
     display: block;
     margin: 0 auto;
@@ -7,10 +11,23 @@ img {
 }
 
 footer{
-    background-color: aqua;
+    
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+h6{
+    font-size: 1rem;
+}
+
+.categorias{
+    background-color: #ffafcc;
 }
 .head1{
-    background-color: blueviolet;
+    
+    
 }
  
 .headerbusqueda{
@@ -21,13 +38,35 @@ footer{
     
 }
 .container{
-    background-color: red;
+    background-color: #cdb4db;
     margin: 5px;
     padding: 5px;
 }
 .product{
     display: grid;
     justify-items: center;
+
 }
 
+.name-product{
+    width: 100%;
+}
+
+.img-redonda{
+    width: 60px;
+    height: 60px;
+    border-radius: 300px;
+    padding: 1%;
+    margin: 1%;
+    padding: 10px;
+}
+
+.redes{
+    background-color: #ffd6ff;
+    display: flex;
+    padding: 5%;
+    margin: 2%;
+    flex-direction: column;
+    align-items: center;
+}
 @media
